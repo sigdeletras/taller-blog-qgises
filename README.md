@@ -11,8 +11,9 @@
 - Adquirir los conocmientos básicos sobre Git (configuración, ramas, commit...) y GitHub para poder realizar una petición para incorporar (Pull Request) la nueva entrada
 - Uso del lenguaje de marcado [Markdown](https://es.wikipedia.org/wiki/Markdown) para la redacción y definición de estilo (negritas, cursivas, enlaces, imágenes, listas...) de los artículos.
 
-## Organización
-- Patricio Soriano 🖐. Socio de QGIS.es,  culpable de [SIGdeletras.com](https://sigdeletras.com/), tuitero viejuno en [@sigdeletras](https://github.com/sigdeletras) y profesionalmente en [Linkedin](https://www.linkedin.com/in/patriciosorianocastro/)
+## Culpable
+
+- Patricio Soriano 🖐. Socio de QGIS.es,  escribo en [SIGdeletras.com](https://sigdeletras.com/), tuitero viejuno en [@sigdeletras](https://github.com/sigdeletras) y profesionalmente en [Linkedin](https://www.linkedin.com/in/patriciosorianocastro/)
 
 ## Coordenadas
 
@@ -22,11 +23,11 @@
 - Lugar: Será un **taller virtual**. Usaremos Jitsi Meet
 - Inscripción: **No necesita inscripción**, sólo pasate por el [grupo de Telegram para el Taller](https://t.me/+NPDWTHBFA9EyZDJk) que he creado para organizarnos y donde pasaré el enlace a la videoconferencia
 
-## Requisitos
+## Que no se olvide
 
-- Tener una cuenta en GitHub . Si no la tienes puedes obtenerla desde este [link.](https://github.com/signup?source=login)
-- Usar un editor de código. Recomiento [Visual Studio Code](https://code.visualstudio.com/download), ya que será el usado en el taller.
-- Cámara y micro para la videoconferencia
+1. Tener una cuenta en GitHub . Si no la tienes puedes obtenerla desde este [link.](https://github.com/signup?source=login)
+2. Usar un editor de código. Recomiendo [Visual Studio Code](https://code.visualstudio.com/download), ya que será el usado en el taller.
+3. Cámara y micro para la videoconferencia
 
 ## Guión
 
