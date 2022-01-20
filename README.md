@@ -2,7 +2,7 @@
 
 ## Objetivo principal
 
-- Fomentar las aportaciones al blog de la Asociación ey pasar un buen rato de convivencia 'virtual' 🥳 entre asociados.
+Fomentar las aportaciones al blog de la Asociación ey pasar un buen rato de convivencia 'virtual' 🥳 entre asociados.
 
 ## ...y también
 
