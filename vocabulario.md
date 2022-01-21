@@ -1,0 +1,9 @@
+- git
+- control de versiones
+- github
+- clonar
+- commit
+- pull
+- push
+- rama/branch
+- pull request
