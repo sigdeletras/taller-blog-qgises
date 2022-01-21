@@ -123,7 +123,7 @@ Es interesante hacer un resumen de los trabajos que tiene el PR para que el 'due
 
 
 7. Sincroniza tu rama maestra con la del repositorio original
-8. 
+   
 Antes de enviar cualquier pull request al repositorio original debes sincronizar tu repositorio con aquel.
 
 Incluso si no vas a enviar un pull request al repositorio original, es mejor efectuar la sincronización, ya que pueden haberse agregado algunas prestaciones o funciones adicionales y haberse corregido algunos errores desde la vez que realizaste un fork de aquel repositorio.
