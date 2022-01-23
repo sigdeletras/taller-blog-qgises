@@ -29,3 +29,62 @@ Abrimos un terminal y escribimos
 git config --global user.name "John Doe"
 git config --global user.email johndoe@example.com
 ```
+
+## Flujo de Git
+
+**Clonar un repositorio de GitHub***
+```
+git clone
+```
+
+**Crear una rama (branch)**
+
+```
+git branch nombre-rama
+```
+
+**Cambiar de rama ((checkout)**
+
+```
+git checkout nombre-rama
+```
+
+**Crear y cambiar de rama** (checkout)
+
+git checkout -b nombre-rama
+
+**Añadir ficheros (add)**
+
+**Confirmaciones de cambios (commit)**
+
+**Añadir y commit**
+
+```
+git commit -a -m 'Texto descriptivo'
+```
+
+**Revertir cambios (revert)** 
+
+**Subir cambios a repositorio remoto (push)
+
+**Descargar cambios de repositorio remoto (pull)**
+
+**Unir rama desarrollo a rama principal (merge)**
+
+```
+git checkout master
+git merge nombre-rama
+```
+
+**Borrar rama**
+```
+git branch -d nombre-rama
+```
+
+**Iniciar git (init)**
+
+**Ver estado de archivos**
+```
+git status
+```
+
