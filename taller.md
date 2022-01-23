@@ -56,13 +56,15 @@ Vemos un ejemplo en el blog:
 Artículo recomendado [Cómo hacer tu primer pull request en GitHub](https://www.freecodecamp.org/espanol/news/como-hacer-tu-primer-pull-request-en-github/)
 Vamos a usar el este repositorio para reproducir el flujo que debemos hacer
 
-1. Crear una copia (bifurcación/fork)
+### 1. Crear una copia (bifurcación/fork)
 
 Creamos una copia del proyecto general en nuestra cuenta de Github. A partir de ese momento podemos trabajar con el código sin que el proyecto original se vea afectado
 
 ![](img/05_fork.jpg)
 
-2. Clonar el repositorio en nuestro equipo local. Hay varias opciones
+### 2. Clonar el repositorio en nuestro equipo local. 
+
+Hay varias opciones
   - Descarga el zip
   - Hacer un git clone
 
@@ -73,7 +75,9 @@ git clone https://github.com/sigdeletras/taller-blog-qgises.git
 ![](img/06_clone.jpg)
 
 
-3. Crear una rama (branch)
+### 3. Crear una rama (branch)
+
+Es una buena práctica crear una rama (branch) nueva cuando trabajas con repositorios. El nombre de la rama debe ser breve y debe reflejar el trabajo que estamos haciendo.
 
 Abrimos la carpeta en VSCode. Recordad que antes de usar Git por primera vez hay que configurarlo con nuestros datos
 
@@ -81,17 +85,12 @@ Abrimos la carpeta en VSCode. Recordad que antes de usar Git por primera vez hay
 $ git config --global user.name "John Doe"
 $ git config --global user.email johndoe@example.com
 ```
-
-Es una buena práctica crear una rama (branch) nueva cuando trabajas con repositorios. El nombre de la rama debe ser breve y debe reflejar el trabajo que estamos haciendo.
-
 Usamos git checkout o lo hacemos desde VSCode
-
 ```
 git checkout -b articulo_tunombre
 ```
 
-
-- Añadir nuestro archivos e ir registrando los cambios (commit)
+### 4. Añadir nuestro archivos e ir registrando los cambios (commit)
 
 Para añadir el artículo en e blog lo mejor es la carpeta existente, añadir el texto del blog con Markdown y modificar los parámetros.
 
@@ -106,7 +105,7 @@ git commit -m 'Añadida ficha de autor'
 ```
 
 
-5. Envía los cambios a GitHub
+### 5. Envía los cambios a GitHub
 
 - Pedir que los cambios sean añadidos al repositorio de QGIS ES (Pull Request)
 
@@ -115,14 +114,14 @@ git push origin [Nombre de la Rama]
 
 ```
 
-6. Crea un pull request
+### 6. Crea un pull request
 
 Ve a tu repositorio en GitHub y verás un botón llamado "Pull request", has clic en él.
 
 Es interesante hacer un resumen de los trabajos que tiene el PR para que el 'dueño' del repositorio original sepa que trabajos se a realizado, pueda valorarlos y si lo cree oportuno añadirlos, aceptado el PR.
 
 
-7. Sincroniza tu rama maestra con la del repositorio original
+### 7. Sincroniza tu rama maestra con la del repositorio original
    
 Antes de enviar cualquier pull request al repositorio original debes sincronizar tu repositorio con aquel.
 
