@@ -7,10 +7,6 @@
 sudo apt-get update
 sudo apt-get install git
 ```
-
-O bien descargarlo [https://git-scm.com/downloads]
-
-
 ### Configuración git
 
 Podemos comprobar que todo ha ido ok escribiendo en un terminal
@@ -34,7 +30,7 @@ git config --global user.email johndoe@example.com
 
 [Pro Git book de Scott Chacon](https://git-scm.com/book/es/v2/)
 
-**Clonar un repositorio de GitHub***
+**Clonar un repositorio de existente***
 ```
 git clone
 ```
@@ -67,8 +63,14 @@ git commit -a -m 'Texto descriptivo'
 **Revertir cambios (revert)** 
 
 **Subir cambios a repositorio remoto (push)
+```
+git push origin master
+````
 
 **Descargar cambios de repositorio remoto (pull)**
+```
+git pull <remote>
+```
 
 **Unir rama desarrollo a rama principal (merge)**
 
@@ -87,5 +89,9 @@ git branch -d nombre-rama
 **Ver estado de archivos**
 ```
 git status
+```
+**Historial (log)**
+```
+git log
 ```
 
