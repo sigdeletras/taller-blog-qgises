@@ -16,10 +16,5 @@ image:
   focal_point: TOPRIGHT
   preview_only: false
 ---
-La vulnerabilidad causada por **Log4J** ha estado en todos los titulares tecnológicos de los últimos días. Hemos ([qgis.org](http://www.qgis.org)) recibido muchas preguntas queriendo saber si **QGIS** ha sido afectado. Por ello, nos gustaría aclarar:
 
-**QGIS** no es una aplicación **Java**. **QGIS** está basado en **C++** y **Python**. **QGIS**, por lo tanto, no usa ningún componente de **Java**, incluyendo **Log4j**(ava).
-
-Es técnicamente posible que algún "**plugin**" (complemento) utilice aplicaciones **Java**. Si estás preocupado por cualquier potencial vulnerabilidad, por favor ponte en contacto con los desarrolladores del "**plugin**" (complemento) a través de la información de contacto que puedes encontrar en sus metadatos.
-
-![img](featured.png)
+[Basic writing and formatting syntax](https://docs.github.com/es/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
