@@ -62,9 +62,15 @@ git commit -a -m 'Texto descriptivo'
 ```
 **Revertir cambios (revert)** 
 
-**Subir cambios a repositorio remoto (push)
+**Subir cambios a repositorio remoto (push)**
 ```
 git push origin master
+````
+
+Si la rama local no existe en remoto.
+
+```
+git push -u origin nombre-rama
 ````
 
 **Descargar cambios de repositorio remoto (pull)**
