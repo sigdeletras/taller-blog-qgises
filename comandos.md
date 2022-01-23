@@ -2,7 +2,7 @@
 
 ## Git
 
-### Instalación
+### Instalación Ubuntu
 ```
 sudo apt-get update
 sudo apt-get install git
@@ -10,13 +10,14 @@ sudo apt-get install git
 
 O bien descargarlo [https://git-scm.com/downloads]
 
+
+### Configuración git
+
 Podemos comprobar que todo ha ido ok escribiendo en un terminal
 
 ```
 git --version
 ```
-
-### Configuración git
 
 Si es la primera vez [necesitaremos configurarlo](https://git-scm.com/book/es/v2/Inicio---Sobre-el-Control-de-Versiones-Configurando-Git-por-primera-vez). Lo primero que deberás hacer cuando instales Git es establecer tu nombre de usuario y dirección de correo electrónico. 
 
