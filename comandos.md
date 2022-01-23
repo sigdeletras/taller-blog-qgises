@@ -32,37 +32,38 @@ git config --global user.email johndoe@example.com
 
 ## Flujo de Git
 
+[Pro Git book de Scott Chacon](https://git-scm.com/book/es/v2/]
+
 **Clonar un repositorio de GitHub***
 ```
 git clone
 ```
-
 **Crear una rama (branch)**
-
 ```
 git branch nombre-rama
 ```
-
-**Cambiar de rama ((checkout)**
+**Cambiar de rama (checkout)**
 
 ```
 git checkout nombre-rama
 ```
-
-**Crear y cambiar de rama** (checkout)
-
+**Crear y cambiar de rama (checkout)** 
+```
 git checkout -b nombre-rama
-
+```
 **Añadir ficheros (add)**
-
+```
+$ git add *
+$ git add LICENSE
+```
 **Confirmaciones de cambios (commit)**
-
+```
+git commit -m 'Texto descriptivo'
+```
 **Añadir y commit**
-
 ```
 git commit -a -m 'Texto descriptivo'
 ```
-
 **Revertir cambios (revert)** 
 
 **Subir cambios a repositorio remoto (push)
