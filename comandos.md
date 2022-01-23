@@ -32,7 +32,7 @@ git config --global user.email johndoe@example.com
 
 ## Flujo de Git
 
-[Pro Git book de Scott Chacon](https://git-scm.com/book/es/v2/]
+[Pro Git book de Scott Chacon](https://git-scm.com/book/es/v2/)
 
 **Clonar un repositorio de GitHub***
 ```
