@@ -74,6 +74,7 @@ git push -u origin nombre-rama
 ````
 
 **Descargar cambios de repositorio remoto (pull)**
+
 ```
 git pull <remote>
 ```
@@ -88,6 +89,8 @@ git merge nombre-rama
 **Borrar rama**
 ```
 git branch -d nombre-rama
+
+git push origin --delete nombre-rama
 ```
 
 **Iniciar git (init)**
@@ -101,5 +104,10 @@ git status
 git log
 git log --pretty=oneline
 git log --pretty=format:"%h - %an, %ar : %s"
+```
+** Limpiar ramas local/remoto (fetch prune)**
+
+```
+git fetch -p 
 ```
 

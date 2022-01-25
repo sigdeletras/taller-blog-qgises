@@ -154,35 +154,46 @@ $ git config --global user.email johndoe@example.com
 ```
 ### 0. Hacer un fork desde Github
 
-Usaremos un repositorio de pruebas antes de hacerlo con el de la Asociación.
+Usaremos un repositorio de pruebas.
 [https://github.com/sigdeletras2/repotalle](https://github.com/sigdeletras2/repotaller)
 
 ### 1. Clonar el repositorio en nuestro equipo local. 
 
 Hay varias opciones
+
   - Descarga el zip
-  - Hacer un git clone
+  
+![](img/06_clone.jpg)
+
+  - Hacer un git clone usando terminal
 
 ```
 git clone https://github.com/sigdeletras/taller-blog-qgises.git
 ```
 
-![](img/06_clone.jpg)
+  - GitHub Desktop
 
 ### 2. Crear una rama (branch)
 
+Abrimos la carpeta en VCode.
+
 Es una buena práctica crear una rama (branch) nueva cuando trabajas con repositorios. El nombre de la rama debe ser breve y debe reflejar el trabajo que estamos haciendo.
 
-Usamos git checkout o lo hacemos desde VSCode
+Usamos git checkout o lo hacemos desde VSCode.
+
+Desde un terminal de VSCode
+
 ```
 git checkout -b articulo_tunombre
 ```
 
 ### 3. Añadir nuestro archivos e ir confirmando los cambios (commit)
 
-Estados de Git
 
-![]()
+
+![](img/08_git_ststus_git_flow.png)
+
+Estados y fluo de Git
 
 Cuando queramos hacer un registro de nuestros cambios haremos un *commit* donde comentaremos brevemente los trabajos y cambios realizados. Esto es la clave de los sistemas de control de versiones.
 
@@ -192,10 +203,15 @@ git add
 git commit -m 'Añadida ficha de autor'
 ```
 
+Algusnoo complementos Git para VSCode
 
+- 👌[GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) Paneles sobre commits, ramas, historial de ficheros...
+- [Git History](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph) Gráfico del historial
+- Git Graph
+  
 ### 5. Envía los cambios a GitHub
 
-- Pedir que los cambios sean añadidos al repositorio de QGIS ES (Pull Request)
+Subir los cambios a GitHub
 
 ```
 git push origin [Nombre de la Rama]
@@ -204,15 +220,27 @@ git push origin [Nombre de la Rama]
 
 ### 6. Crea un pull request
 
-Ve a tu repositorio en GitHub y verás un botón llamado "Pull request", has clic en él.
+- Ve a **tu repositorio en GitHub** hacer clic en "Pull request"
+- Es interesante hacer un resumen de los trabajos que tiene el PR para que el 'dueño' del repositorio original sepa que trabajos se a realizado, pueda valorarlos y si lo cree oportuno añadirlos, aceptado el PR.
+- El propiertario del repositorio puede aceptar el PR o sugerir cambios o mejoras antes de unirlo con su rama original
 
-Es interesante hacer un resumen de los trabajos que tiene el PR para que el 'dueño' del repositorio original sepa que trabajos se a realizado, pueda valorarlos y si lo cree oportuno añadirlos, aceptado el PR.
+### 7. Unir/Limpiar ramas
 
+Es una buena práctica limpiar ramas que ya han sido 'mergeadas'
 
-### 7. Sincroniza tu rama maestra con la del repositorio original
-   
+```
+git checkout master
+git merge nombre-de-la-rama
+git push
+git branch -d nombre-de-la-rama
+```
+
+### 8. Sincroniza tu rama maestra con la del repositorio original
+
 Antes de enviar cualquier pull request al repositorio original debes sincronizar tu repositorio con aquel.
 
 Incluso si no vas a enviar un pull request al repositorio original, es mejor efectuar la sincronización, ya que pueden haberse agregado algunas prestaciones o funciones adicionales y haberse corregido algunos errores desde la vez que realizaste un fork de aquel repositorio.
 
 https://docs.github.com/es/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork
+
+## Práctica 2. Crear un artículo desde local, subirlo a remoto y hacer un PR.
