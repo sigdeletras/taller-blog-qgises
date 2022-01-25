@@ -58,7 +58,7 @@ La Asociación cuenta también con un repositorio en GitLab [https://gitlab.com/
 - **Ficha de Autores**
   - Ubicadas en [/content/authors](https://github.com/qgises/qgis-es/tree/master/content/authors)
   - Carpeta con el nombre del autor ej. patricio-soriano. **No debemos usar espacios para separa palabras. Usamos guiones**
-  - Archivo *_indes.md*
+  - Archivo *_index.md*
   - Foto *avatar*
 
 ![post](img/04_authors.jpg)
@@ -111,7 +111,27 @@ Siempre que vayamos a realizar un nuevo aporte debemos actualizar el repositorio
 Artículo recomendado [Cómo hacer tu primer pull request en GitHub](https://www.freecodecamp.org/espanol/news/como-hacer-tu-primer-pull-request-en-github/)
 Vamos a usar el este repositorio para reproducir el flujo que debemos hacer
 
-## Forma 2. Trabajando en local
+## Práctica 1.Crear ficha de autor en repostorio de prueba desde GitHub
+
+[https://github.com/sigdeletras2/repotaller](https://github.com/sigdeletras2/repotaller)
+
+1. Accedemos a la carpeta [/authors](https://github.com/sigdeletras2/repotaller/tree/main/content/authors)
+2. Abrimos la carpeta *patricio-soriano* y copiamos el código del archivo _index.md (Copy raw contents)
+
+![](img/practica01/01_01_copyraw.jpg)
+
+3. Nos situamos en /authors y creamos un archivo (_index.md) y una carpeta con nuestro nombre.
+4. Pegamos el contenido y editamos la información con nuestros datos.
+5. Describimos los cambios hechos
+6. Confirmamos
+   
+![](img/practica01/01_02_create_new_file.gif)
+
+7. Realizanos un PR.
+
+![](img/practica01/01_07_pr.jpg)
+
+## Forma 2. Trabajando desde repositorio local (clone)
 
 Es la forma más habitual. Usaremos toda la potencia de Git mediante comandos en terminal. Pero será interesante en apoyarnos en editores de código como VSCode.
 
@@ -123,9 +143,6 @@ Es la forma más habitual. Usaremos toda la potencia de Git mediante comandos en
 5. Ya en GitHub hacemos el PR.
 6. Limpiamos las ramas
 
-Usaremos un repositorio de pruebas antes de hacerlo con el de la Asociación.
-
-[https://github.com/sigdeletras2/repotalle](https://github.com/sigdeletras2/repotaller)
 
 ### Configuración de Git
 
@@ -135,6 +152,10 @@ Antes de usar Git por primera vez hay que configurarlo con nuestros datos. Será
 $ git config --global user.name "John Doe"
 $ git config --global user.email johndoe@example.com
 ```
+### 0. Hacer un fork desde Github
+
+Usaremos un repositorio de pruebas antes de hacerlo con el de la Asociación.
+[https://github.com/sigdeletras2/repotalle](https://github.com/sigdeletras2/repotaller)
 
 ### 1. Clonar el repositorio en nuestro equipo local. 
 
