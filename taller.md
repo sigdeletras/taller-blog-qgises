@@ -1,29 +1,26 @@
-## Bienevenida y presentaciones
+## Bienvenida y presentaciones
 
 ## Objetivos
 
-- Contribuir a un proyecto de código abierto usando como ejempplo la web de la [Asociación QGIS España](https://www.qgis.es/)
+- Contribuir a un proyecto de código abierto usando como ejemplo la web de la [Asociación QGIS España](https://www.qgis.es/)
 - Estructura de la web de la [Asociación QGIS España](https://www.qgis.es/)
 - Generar los archivos necesarios para añadir una entrada al blog de la página.
 - **Git** (configuración, ramas, commit...)
-- **GitHub** y los pull requests
-- Lenguaje de marcado [Markdown]
+- **GitHub** y pull request
+- Lenguaje de marcado **Markdown**
 
+## ¿Cómo contribuir a un proyecto de código abierto?
 
-## Contribuir a un proyecto de cósigo abierto
+Un proyecto abierto no es solo código...(C++, Python, Plugins). El mismo QGIS tiene una página que la que se indica cómo poder contribuir [https://qgis.org/es/site/getinvolved/index.html](https://qgis.org/es/site/getinvolved/index.html)
 
-No solo código...(C++, Python, Plugins)
-
-[https://qgis.org/es/site/getinvolved/index.html](https://qgis.org/es/site/getinvolved/index.html)
-
-- Documemtación
-- Traducción
+- Crear documentación
+- Realizar/mejorar
 - Información de errores
 - Testeando versiones
 - Respondiendo dudas
 - Aportando económicamente
   
-## Página web de la Asociación
+## Página web de la Asociación QGIS España
 
 La url pública de la página es [https://www.qgis.es/](https://www.qgis.es/)
 
@@ -37,19 +34,17 @@ El código de la página web está se encuentra en **GitHub**, que de forma senc
 
 [https://github.com/qgises/qgis-es](https://github.com/qgises/qgis-es)
 
-GitHub es plataforma web basado en el control de versiones donde poder alojar nuestro proyectos de código para compartirlos con la comunidad, colaboradores o cualquier persona que esté interesada.
-
-GitHub no es la única plataforma, aunque sí la más usada conviertiéndose casi en una red social. Tenemos también GitLab o Bitbucket.
-
-La Asociación cuenta también con un repositorio en GitLab [https://gitlab.com/qgis_es](https://gitlab.com/qgis_es)
+GitHub es plataforma web basado en el control de versiones donde poder alojar nuestros proyectos de código para compartirlos con la comunidad, colaboradores o cualquier persona que esté interesada. A pesar de ser la más conocida, no es la única opción. Tenemos también GitLab o Bitbucket. a Asociación cuenta también con un repositorio en GitLab [https://gitlab.com/qgis_es](https://gitlab.com/qgis_es)
 
 ![](img/02_2_gitlab.jpg)
 
-## ¿Dónde añadir nuestros artículos?
+### ¿Dónde añadir nuestros artículos?
+
+Dentro del repositorio de la web en GitHub...
 
 - **Entradas**. 
-  - Unicadas en  [/content/post](https://github.com/qgises/qgis-es/tree/master/content/post)
-  - Carpeta debe tener como prefijo la fecha en formato (2022-01-21) más el nombre que queremos que aparezca en la URL. **No debemos usar espacios para separa palabras. Usamos guiones**
+  - Ubicadas en  [/content/post](https://github.com/qgises/qgis-es/tree/master/content/post)
+  - Carpeta debe tener como prefijo la fecha en formato (2022-01-21) más el nombre que queremos que aparezca en la URL. **No debemos añadir espacios para separar palabras. Usamos guiones**
   - Artículo en archivo *index.md*
   - Todas las imágenes que queramos añadir. Ojo a la resolución.
 
@@ -57,7 +52,7 @@ La Asociación cuenta también con un repositorio en GitLab [https://gitlab.com/
 
 - **Ficha de Autores**
   - Ubicadas en [/content/authors](https://github.com/qgises/qgis-es/tree/master/content/authors)
-  - Carpeta con el nombre del autor ej. patricio-soriano. **No debemos usar espacios para separa palabras. Usamos guiones**
+  - Carpeta con el nombre del autor ej. patricio-soriano. **No debemos añadir espacios para separar palabras. Usamos guiones**
   - Archivo *_index.md*
   - Foto *avatar*
 
@@ -67,51 +62,52 @@ Para añadir el artículo en el blog o crear nuestra ficha por primera vez lo me
 
 ## Uso de Markdown
 
-Markdown es un lenguaje de marcado que facilita la aplicación de formato (negrita, enlaces, encabezados,listas...) a un texto empleando una serie de caracteres de una forma especial. 
+Markdown es un lenguaje de marcado que facilita la aplicación de formato (negrita, enlaces, encabezados, listas...) a un texto empleando una serie de caracteres de una forma especial. 
 
-Como explica "John Gruber":http://daringfireball.net/projects/markdown/, uno de sus creadores, Markdown es realmente dos cosas: por un lado, el lenguaje; por otro, una herramienta de software que convierte el lenguaje en HTML válido.
+Como explica John Gruber uno de sus creadores, *Markdown es realmente dos cosas: por un lado, el lenguaje; por otro, una herramienta de software que convierte el lenguaje en HTML válido*. 
 
-[Qué es Markdown, para qué sirve y cómo usarlo](https://www.genbeta.com/guia-de-inicio/que-es-markdown-para-que-sirve-y-como-usarlo)
+Un buen enlace sobre [Qué es Markdown, para qué sirve y cómo usarlo](https://www.genbeta.com/guia-de-inicio/que-es-markdown-para-que-sirve-y-como-usarlo)
 
-En el siguiente enlace tenemos una guía de las marcas que se usan en Markdown [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
+En [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/) tenemos una guía de las marcas que se usan en Markdown.
 
 Vemos un ejemplo en el blog:
+
 - [Entrada en la web](https://www.qgis.es/post/2021-03-29-qgis-docker/)
 - [Post en MarkDown](https://github.com/qgises/qgis-es/tree/master/content/post/2021-03-29-qgis-docker)
 
 
 ## Forma 1. Crear un artículo desde GitHub
 
-Lo primero que debemos hacer es realizar un fork (bifurcación) del repositorio de la web en nuestra cuenta de Github. Esto nos va a permitir modificar, romper, toquetear un repositorio sin que el original se vea afectado.
+1. Lo primero que debemos hacer es realizar un **fork** (bifurcación) del repositorio de la web en nuestra cuenta de GitHub. Esto nos va a permitir modificar, romper, toquetear un repositorio sin que el original se vea afectado.
 
 ![](img/05_fork.jpg)
 
-Creamos una copia del proyecto general en nuestra cuenta de Github. A partir de ese momento podemos trabajar con el código sin que el proyecto original se vea afectado
+2. Creamos una copia del proyecto general en nuestra cuenta de GitHub. A partir de ese momento podemos trabajar con el código sin que el proyecto original se vea afectado
 
-Ya en nuestra cuenta de GitHub podríamos crear los archivos y estructuras necesarias para añadir un entrada al blog.
+3. Ya en nuestra cuenta de GitHub podríamos crear los archivos y estructuras necesarias para añadir una entrada al blog.
 
 ![](img/07_entrada_desde_github.jpg)
 
-Cada vez que se añadan o modifiquen ficheros debemos realziar una confirmación (commit). Cada commit va acompañador de una descripción del trabajo realziado.
+4. Cada vez que se añadan o modifiquen ficheros debemos realizar una confirmación (commit). Cada commit va acompañador de una descripción del trabajo que hemos hecho.
 
 ![](img/07_commit_desde_github.jpg)
 
-Gracias a Git, podemos acceder al historial de cambios realziados y si fuera necesario revertirlo.
+Gracias a Git, podemos acceder al historial de cambios y si fuera necesario revertirlo.
 
 ![](img/07_histoial_desde_github.jpg)
 
-El último paso es realizar un *Pull Request* (una petición de cambio) al repoistorio original para que los 'propietarios' analicen los cambios y mejoras propuestas y lo incluyan en el proyecto (la web de la Asociación).
+5. El último paso es realizar un *Pull Request* (una petición de cambio) al repositorio original para que los 'propietarios' analicen los cambios y mejoras propuestas y lo incluyan en el proyecto (la web de la Asociación).
 
 Es importante comentar el objetivo del PR, no lo que se ha hecho ya que para esto están los commits.
 
-Siempre que vayamos a realizar un nuevo aporte debemos actualizar el repositorio de nuestra cuenta en relación al original.
+Siempre que vayamos a realizar un nuevo aporte debemos actualizar el repositorio de nuestra cuenta en relación con el original.
 
 ![](img/07_fetch_github.jpg)
 
 Artículo recomendado [Cómo hacer tu primer pull request en GitHub](https://www.freecodecamp.org/espanol/news/como-hacer-tu-primer-pull-request-en-github/)
 Vamos a usar el este repositorio para reproducir el flujo que debemos hacer
 
-## Práctica 1.Crear ficha de autor en repostorio de prueba desde GitHub
+## Práctica 1. Crear ficha de autor en repositorio de prueba desde GitHub
 
 [https://github.com/sigdeletras2/repotaller](https://github.com/sigdeletras2/repotaller)
 
@@ -124,10 +120,10 @@ Vamos a usar el este repositorio para reproducir el flujo que debemos hacer
 4. Pegamos el contenido y editamos la información con nuestros datos.
 5. Describimos los cambios hechos
 6. Confirmamos
-   
+
 ![](img/practica01/01_02_create_new_file.gif)
 
-7. Realizanos un PR.
+7. Hacemos un PR.
 
 ![](img/practica01/01_07_pr.jpg)
 
@@ -136,13 +132,12 @@ Vamos a usar el este repositorio para reproducir el flujo que debemos hacer
 Es la forma más habitual. Usaremos toda la potencia de Git mediante comandos en terminal. Pero será interesante en apoyarnos en editores de código como VSCode.
 
 0. Si es un fork, revisar que esté actualizado (fetch)
-1. Clonar el respositorio remoto a nuestro equipo (clone). Si ya tenemos clonado el repositorio, bajaremos los cambios recientes (pull)
+1. Clonar el repositorio remoto a nuestro equipo (clone). Si ya tenemos clonado el repositorio, bajaremos los cambios recientes (pull)
 2. Creamos una rama (branch) para el trabajo/modificación/nuevo desarrollo/corrección
 3. Añadimos y confirmamos (add/commit)
 4. Subimos los datos al repositorio remoto (push)
 5. Ya en GitHub hacemos el PR.
 6. Limpiamos las ramas
-
 
 ### Configuración de Git
 
@@ -152,7 +147,7 @@ Antes de usar Git por primera vez hay que configurarlo con nuestros datos. Será
 $ git config --global user.name "John Doe"
 $ git config --global user.email johndoe@example.com
 ```
-### 0. Hacer un fork desde Github
+### 0. Hacer un fork desde GiHub
 
 Usaremos un repositorio de pruebas.
 [https://github.com/sigdeletras2/repotalle](https://github.com/sigdeletras2/repotaller)
@@ -175,7 +170,7 @@ git clone https://github.com/sigdeletras/taller-blog-qgises.git
 
 ### 2. Crear una rama (branch)
 
-Abrimos la carpeta en VCode.
+Abrimos la carpeta en VSCode.
 
 Es una buena práctica crear una rama (branch) nueva cuando trabajas con repositorios. El nombre de la rama debe ser breve y debe reflejar el trabajo que estamos haciendo.
 
@@ -187,13 +182,11 @@ Desde un terminal de VSCode
 git checkout -b articulo_tunombre
 ```
 
-### 3. Añadir nuestro archivos e ir confirmando los cambios (commit)
-
-
+### 3. Añadir nuestros archivos e ir confirmando los cambios (commit)
 
 ![](img/08_git_ststus_git_flow.png)
 
-Estados y fluo de Git
+Estados y flujo de Git
 
 Cuando queramos hacer un registro de nuestros cambios haremos un *commit* donde comentaremos brevemente los trabajos y cambios realizados. Esto es la clave de los sistemas de control de versiones.
 
@@ -203,7 +196,7 @@ git add
 git commit -m 'Añadida ficha de autor'
 ```
 
-Algusnoo complementos Git para VSCode
+Algunos complementos Git para VSCode
 
 - 👌[GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) Paneles sobre commits, ramas, historial de ficheros...
 - [Git History](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph) Gráfico del historial
@@ -221,8 +214,8 @@ git push origin [Nombre de la Rama]
 ### 6. Crea un pull request
 
 - Ve a **tu repositorio en GitHub** hacer clic en "Pull request"
-- Es interesante hacer un resumen de los trabajos que tiene el PR para que el 'dueño' del repositorio original sepa que trabajos se a realizado, pueda valorarlos y si lo cree oportuno añadirlos, aceptado el PR.
-- El propiertario del repositorio puede aceptar el PR o sugerir cambios o mejoras antes de unirlo con su rama original
+- Es interesante hacer un resumen de los trabajos que tiene el PR para que el 'dueño' del repositorio original sepa que trabajos se han realizado, pueda valorarlos y si lo cree oportuno añadirlos, aceptado el PR.
+- El 'propietario' del repositorio puede aceptar el PR o sugerir cambios o mejoras antes de unirlo con su rama original
 
 ### 7. Unir/Limpiar ramas
 
