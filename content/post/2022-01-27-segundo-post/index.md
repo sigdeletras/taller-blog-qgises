@@ -6,7 +6,7 @@ summary: "Taller"
 draft: false
 featured: true
 authors:
-  - gus-presa
+  - patricio-soriano
 tags:
   - QGIS
 categories:
