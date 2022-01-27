@@ -10,7 +10,7 @@
 6. Forma 1. Crear un artículo desde GitHub (Práctica 1)
 7. Forma 2. Trabajando desde repositorio local (Práctica 2)
 
-## Objetivos del Taller [](#){objetivos}
+## Objetivos del Taller []<a name="objetivos"></a>
 
 - Contribuir a un proyecto de código abierto usando como ejemplo la web de la [Asociación QGIS España](https://www.qgis.es/)
 - Estructura de la web de la [Asociación QGIS España](https://www.qgis.es/)
