@@ -1,6 +1,16 @@
-## Bienvenida y presentaciones
+# Taller "Herramientas para colaborar en el blog de QGIS España"
 
-## Objetivos
+## Agenda
+
+1. Bienvenida y presentaciones
+2. [Objetivos del Taller]((#objetivos)
+3. ¿Cómo contribuir a un proyecto de código abierto?
+4. Página web de la Asociación QGIS España
+5. Uso de Markdown
+6. Forma 1. Crear un artículo desde GitHub (Práctica 1)
+7. Forma 2. Trabajando desde repositorio local (Práctica 2)
+
+## Objetivos del Taller [](#){objetivos}
 
 - Contribuir a un proyecto de código abierto usando como ejemplo la web de la [Asociación QGIS España](https://www.qgis.es/)
 - Estructura de la web de la [Asociación QGIS España](https://www.qgis.es/)
@@ -127,7 +137,7 @@ Vamos a usar el este repositorio para reproducir el flujo que debemos hacer
 
 ![](img/practica01/01_07_pr.jpg)
 
-## Forma 2. Trabajando desde repositorio local (clone)
+## Forma 2. Trabajando desde repositorio local
 
 Es la forma más habitual. Usaremos toda la potencia de Git mediante comandos en terminal. Pero será interesante en apoyarnos en editores de código como VSCode.
 
