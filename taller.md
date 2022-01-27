@@ -133,8 +133,8 @@ Es la forma más habitual. Usaremos toda la potencia de Git mediante comandos en
 Antes de usar Git por primera vez hay que configurarlo con nuestros datos. Será la información que se vincule a los commits que hagamos. Esto es fundamental si se trabaja en equipos.
 
 ```
-$ git config --global user.name "John Doe"
-$ git config --global user.email johndoe@example.com
+git config --global user.name "John Doe"
+git config --global user.email johndoe@example.com
 ```
 ### 0. Hacer un fork desde GiHub
 
