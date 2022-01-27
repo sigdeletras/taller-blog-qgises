@@ -3,7 +3,7 @@
 ## Agenda
 
 1. Bienvenida y presentaciones
-2. [Objetivos del Taller]((#objetivos)
+2. [Objetivos del Taller](#objetivos)
 3. ¿Cómo contribuir a un proyecto de código abierto?
 4. Página web de la Asociación QGIS España
 5. Uso de Markdown
