@@ -88,27 +88,11 @@ Vemos un ejemplo en el blog:
 
 ## Forma 1. Crear un artículo desde GitHub<a name="forma1"></a>
 
-1. Lo primero que debemos hacer es realizar un **fork** (bifurcación) del repositorio de la web en nuestra cuenta de GitHub. Esto nos va a permitir modificar, romper, toquetear un repositorio sin que el original se vea afectado.
+Podemos añadir directamente los archivos ncesarios para crear una nueva entrada y la ficha de autor trabajando directamente en el reposisitorio de la Asociación. 
 
-![](img/05_fork.jpg)
+Al teminar de añadir nuestros datos se nos indicará que hagamos una solicitú de cambio (*Pull Request*) al dueño del repositorio que revisará el trabajo, analice los cambios y mejoras propuestas y lo incluyan en el proyecto (la web de la Asociación).
 
-2. Creamos una copia del proyecto general en nuestra cuenta de GitHub. A partir de ese momento podemos trabajar con el código sin que el proyecto original se vea afectado
-
-3. Ya en nuestra cuenta de GitHub podríamos crear los archivos y estructuras necesarias para añadir una entrada al blog.
-
-![](img/07_entrada_desde_github.jpg)
-
-4. Cada vez que se añadan o modifiquen ficheros debemos realizar una confirmación (commit). Cada commit va acompañador de una descripción del trabajo que hemos hecho.
-
-![](img/07_commit_desde_github.jpg)
-
-Gracias a Git, podemos acceder al historial de cambios y si fuera necesario revertirlo.
-
-![](img/07_histoial_desde_github.jpg)
-
-5. El último paso es realizar un *Pull Request* (una petición de cambio) al repositorio original para que los 'propietarios' analicen los cambios y mejoras propuestas y lo incluyan en el proyecto (la web de la Asociación).
-
-Es importante comentar el objetivo del PR, no lo que se ha hecho ya que para esto están los commits.
+Es importante comentar el objetivo del PR, no lo que se ha hecho ya que para esto están los *commits*.
 
 Siempre que vayamos a realizar un nuevo aporte debemos actualizar el repositorio de nuestra cuenta en relación con el original.
 
