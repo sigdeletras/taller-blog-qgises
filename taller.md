@@ -94,10 +94,6 @@ Al teminar de añadir nuestros datos se nos indicará que hagamos una solicitú 
 
 Es importante comentar el objetivo del PR, no lo que se ha hecho ya que para esto están los *commits*.
 
-Siempre que vayamos a realizar un nuevo aporte debemos actualizar el repositorio de nuestra cuenta en relación con el original.
-
-![](img/07_fetch_github.jpg)
-
 Artículo recomendado [Cómo hacer tu primer pull request en GitHub](https://www.freecodecamp.org/espanol/news/como-hacer-tu-primer-pull-request-en-github/)
 
 ## Práctica 1. Crear ficha de autor en repositorio de prueba desde GitHub<a name="practica1"></a>
