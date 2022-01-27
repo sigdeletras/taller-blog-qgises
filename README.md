@@ -22,7 +22,8 @@ Fomentar las aportaciones al blog de la Asociación y pasar un buen rato de conv
 - Hora: **17:30** (Hora España Peninsular)
 - Duración: Espero que no más de 1 hora.
 - Lugar: Será un **taller virtual**. Usaremos Jitsi Meet
-- Inscripción: **No necesita inscripción**, sólo pásate por el [grupo de Telegram para el Taller](https://t.me/+NPDWTHBFA9EyZDJk) que he creado para organizarnos y donde pasaré el enlace a la videoconferencia
+- Inscripción: **No necesita inscripción**
+- Comunicación: [Grupo de Telegram para el Taller](https://t.me/+NPDWTHBFA9EyZDJk)
 
 ## Que no se olvide
 
