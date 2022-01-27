@@ -17,11 +17,12 @@ Fomentar las aportaciones al blog de la Asociación y pasar un buen rato de conv
 
 ## Coordenadas
 
+- Enlace: [https://meet.jit.si/taller-qgises](https://meet.jit.si/taller-qgises)
 - Fecha: **Jueves, 27 de enero de 2020**
 - Hora: **17:30** (Hora España Peninsular)
 - Duración: Espero que no más de 1 hora.
 - Lugar: Será un **taller virtual**. Usaremos Jitsi Meet
-- Inscripción: **No necesita inscripción**, sólo pasate por el [grupo de Telegram para el Taller](https://t.me/+NPDWTHBFA9EyZDJk) que he creado para organizarnos y donde pasaré el enlace a la videoconferencia
+- Inscripción: **No necesita inscripción**, sólo pásate por el [grupo de Telegram para el Taller](https://t.me/+NPDWTHBFA9EyZDJk) que he creado para organizarnos y donde pasaré el enlace a la videoconferencia
 
 ## Que no se olvide
 
