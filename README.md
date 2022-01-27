@@ -8,7 +8,7 @@ Fomentar las aportaciones al blog de la Asociación y pasar un buen rato de conv
 
 - Conocer la estructura de la web de la [Asociación QGIS España](https://www.qgis.es/)
 - Generar los archivos necesarios para añadir una entrada al blog de la página.
-- Adquirir los conocmientos básicos sobre Git (configuración, ramas, commit...) y GitHub para poder realizar una petición para incorporar (Pull Request) la nueva entrada
+- Adquirir los conocimientos básicos sobre Git (configuración, ramas, commit...) y GitHub para poder realizar una petición para incorporar (Pull Request) la nueva entrada
 - Uso del lenguaje de marcado [Markdown](https://es.wikipedia.org/wiki/Markdown) para la redacción y definición de estilo (negritas, cursivas, enlaces, imágenes, listas...) de los artículos.
 
 ## Culpable
@@ -31,9 +31,9 @@ Fomentar las aportaciones al blog de la Asociación y pasar un buen rato de conv
 3. Usar un editor de código. Recomiendo **[Visual Studio Code](https://code.visualstudio.com/download)**, ya que será el usado en el taller. Tenemos la opción de usar también [VSCodium](https://vscodium.com/) Gracias [@msevilla00](https://twitter.com/msevilla00) por el aporte 👌.
 4. **Cámara y micr**o para la videoconferencia
 
-## Guión de Taller
+## Guion de Taller
 
-Ir a [Guión de Taller](taller.md)
+Ir a [Guion de Taller](taller.md)
 
 ## Comandos
 
