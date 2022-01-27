@@ -37,12 +37,12 @@ Fomentar las aportaciones al blog de la Asociación y pasar un buen rato de conv
 Ir a [Guion de Taller](taller.md)
 
 1. Bienvenida y presentaciones
-2. [Objetivos del Taller](taller#objetivos)
-3. [¿Cómo contribuir a un proyecto de código abierto?](#como-contribuir)
-4. [Página web de la Asociación QGIS España](#web)
-5. [Uso de Markdown](#markdown)
-6. [Forma 1. Crear un artículo desde GitHub](#forma1) [(Práctica 1)](#practica1)
-7. [Forma 2. Trabajando desde repositorio local](#forma2) [(Práctica 2)](#practica2)
+2. [Objetivos del Taller](taller.md#objetivos)
+3. [¿Cómo contribuir a un proyecto de código abierto?](taller.md#como-contribuir)
+4. [Página web de la Asociación QGIS España](taller.md#web)
+5. [Uso de Markdown](taller.md#markdown)
+6. [Forma 1. Crear un artículo desde GitHub](taller.md#forma1) [(Práctica 1)](taller.md#practica1)
+7. [Forma 2. Trabajando desde repositorio local](taller.md#forma2) [(Práctica 2)](taller.md#practica2)
 
 
 ## Comandos
