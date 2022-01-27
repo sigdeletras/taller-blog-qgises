@@ -1,6 +1,6 @@
 # Taller "Herramientas para colaborar en el blog de QGIS España"
 
-## Agenda
+## Índice<a name="indice"></a>
 
 1. Bienvenida y presentaciones
 2. [Objetivos del Taller](#objetivos)
