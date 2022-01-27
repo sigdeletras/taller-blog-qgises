@@ -4,13 +4,13 @@
 
 1. Bienvenida y presentaciones
 2. [Objetivos del Taller](#objetivos)
-3. ¿Cómo contribuir a un proyecto de código abierto?
-4. Página web de la Asociación QGIS España
-5. Uso de Markdown
-6. Forma 1. Crear un artículo desde GitHub (Práctica 1)
-7. Forma 2. Trabajando desde repositorio local (Práctica 2)
+3. [¿Cómo contribuir a un proyecto de código abierto?](#como-contribuir)
+4. [Página web de la Asociación QGIS España](#web)
+5. [Uso de Markdown](#markdown)
+6. [Forma 1. Crear un artículo desde GitHub](#forma1) [(Práctica 1)](#practica1)
+7. [Forma 2. Trabajando desde repositorio local](#forma2) [(Práctica 2)](#practica2)
 
-## Objetivos del Taller []<a name="objetivos"></a>
+## Objetivos del Taller <a name="objetivos"></a>
 
 - Contribuir a un proyecto de código abierto usando como ejemplo la web de la [Asociación QGIS España](https://www.qgis.es/)
 - Estructura de la web de la [Asociación QGIS España](https://www.qgis.es/)
@@ -19,7 +19,7 @@
 - **GitHub** y pull request
 - Lenguaje de marcado **Markdown**
 
-## ¿Cómo contribuir a un proyecto de código abierto?
+## ¿Cómo contribuir a un proyecto de código abierto?<a name="como-contribuir"></a>
 
 Un proyecto abierto no es solo código...(C++, Python, Plugins). El mismo QGIS tiene una página que la que se indica cómo poder contribuir [https://qgis.org/es/site/getinvolved/index.html](https://qgis.org/es/site/getinvolved/index.html)
 
@@ -30,7 +30,7 @@ Un proyecto abierto no es solo código...(C++, Python, Plugins). El mismo QGIS t
 - Respondiendo dudas
 - Aportando económicamente
   
-## Página web de la Asociación QGIS España
+## Página web de la Asociación QGIS España<a name="web"></a>
 
 La url pública de la página es [https://www.qgis.es/](https://www.qgis.es/)
 
@@ -70,7 +70,7 @@ Dentro del repositorio de la web en GitHub...
 
 Para añadir el artículo en el blog o crear nuestra ficha por primera vez lo mejor copiar una carpeta existente, añadir el texto del blog con Markdown y modificar los parámetros.
 
-## Uso de Markdown
+## Uso de Markdown<a name="markdown"></a>
 
 Markdown es un lenguaje de marcado que facilita la aplicación de formato (negrita, enlaces, encabezados, listas...) a un texto empleando una serie de caracteres de una forma especial. 
 
@@ -86,7 +86,7 @@ Vemos un ejemplo en el blog:
 - [Post en MarkDown](https://github.com/qgises/qgis-es/tree/master/content/post/2021-03-29-qgis-docker)
 
 
-## Forma 1. Crear un artículo desde GitHub
+## Forma 1. Crear un artículo desde GitHub<a name="forma1"></a>
 
 1. Lo primero que debemos hacer es realizar un **fork** (bifurcación) del repositorio de la web en nuestra cuenta de GitHub. Esto nos va a permitir modificar, romper, toquetear un repositorio sin que el original se vea afectado.
 
@@ -117,7 +117,7 @@ Siempre que vayamos a realizar un nuevo aporte debemos actualizar el repositorio
 Artículo recomendado [Cómo hacer tu primer pull request en GitHub](https://www.freecodecamp.org/espanol/news/como-hacer-tu-primer-pull-request-en-github/)
 Vamos a usar el este repositorio para reproducir el flujo que debemos hacer
 
-## Práctica 1. Crear ficha de autor en repositorio de prueba desde GitHub
+## Práctica 1. Crear ficha de autor en repositorio de prueba desde GitHub<a name="practica1"></a>
 
 [https://github.com/sigdeletras2/repotaller](https://github.com/sigdeletras2/repotaller)
 
@@ -137,7 +137,7 @@ Vamos a usar el este repositorio para reproducir el flujo que debemos hacer
 
 ![](img/practica01/01_07_pr.jpg)
 
-## Forma 2. Trabajando desde repositorio local
+## Forma 2. Trabajando desde repositorio local<a name="forma2"></a>
 
 Es la forma más habitual. Usaremos toda la potencia de Git mediante comandos en terminal. Pero será interesante en apoyarnos en editores de código como VSCode.
 
@@ -246,4 +246,4 @@ Incluso si no vas a enviar un pull request al repositorio original, es mejor efe
 
 https://docs.github.com/es/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork
 
-## Práctica 2. Crear un artículo desde local, subirlo a remoto y hacer un PR.
+## Práctica 2. Crear un artículo desde local, subirlo a remoto y hacer un PR.<a name="practica2"></a>
