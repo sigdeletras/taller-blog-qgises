@@ -98,7 +98,7 @@ Artículo recomendado [Cómo hacer tu primer pull request en GitHub](https://www
 
 ## Práctica 1. Crear ficha de autor en repositorio de prueba desde GitHub<a name="practica1"></a>
 
-Vamos a usar el este repositorio de pruebas [https://github.com/sigdeletras2/repotaller](https://github.com/sigdeletras2/repotaller)
+**Para no 'jugar' con el repositorio de la web aamos a usar un proyecto de pruebas [https://github.com/sigdeletras2/repotaller](https://github.com/sigdeletras2/repotaller)**
 
 1. Accedemos a la carpeta [/authors](https://github.com/sigdeletras2/repotaller/tree/main/content/authors)
 2. Abrimos la carpeta *patricio-soriano* y copiamos el código del archivo _index.md (Copy raw contents)
