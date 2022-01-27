@@ -115,11 +115,10 @@ Siempre que vayamos a realizar un nuevo aporte debemos actualizar el repositorio
 ![](img/07_fetch_github.jpg)
 
 Artículo recomendado [Cómo hacer tu primer pull request en GitHub](https://www.freecodecamp.org/espanol/news/como-hacer-tu-primer-pull-request-en-github/)
-Vamos a usar el este repositorio para reproducir el flujo que debemos hacer
 
 ## Práctica 1. Crear ficha de autor en repositorio de prueba desde GitHub<a name="practica1"></a>
 
-[https://github.com/sigdeletras2/repotaller](https://github.com/sigdeletras2/repotaller)
+Vamos a usar el este repositorio de pruebas [https://github.com/sigdeletras2/repotaller](https://github.com/sigdeletras2/repotaller)
 
 1. Accedemos a la carpeta [/authors](https://github.com/sigdeletras2/repotaller/tree/main/content/authors)
 2. Abrimos la carpeta *patricio-soriano* y copiamos el código del archivo _index.md (Copy raw contents)
