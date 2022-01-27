@@ -6,10 +6,12 @@ Fomentar las aportaciones al blog de la Asociación y pasar un buen rato de conv
 
 ## ...y también
 
-- Conocer la estructura de la web de la [Asociación QGIS España](https://www.qgis.es/)
+- Contribuir a un proyecto de código abierto usando como ejemplo la web de la [Asociación QGIS España](https://www.qgis.es/)
+- Estructura de la web de la [Asociación QGIS España](https://www.qgis.es/)
 - Generar los archivos necesarios para añadir una entrada al blog de la página.
-- Adquirir los conocimientos básicos sobre Git (configuración, ramas, commit...) y GitHub para poder realizar una petición para incorporar (Pull Request) la nueva entrada
-- Uso del lenguaje de marcado [Markdown](https://es.wikipedia.org/wiki/Markdown) para la redacción y definición de estilo (negritas, cursivas, enlaces, imágenes, listas...) de los artículos.
+- **Git** (configuración, ramas, commit...)
+- **GitHub** y pull request
+- Lenguaje de marcado **Markdown**
 
 ## Culpable
 
