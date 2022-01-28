@@ -47,7 +47,7 @@ Ir a [Guion de Taller](taller.md)
 7. [Forma 2. Trabajando desde repositorio local](taller.md#forma2) [(Práctica 2)](taller.md#practica2)
 
 
-## Comandos
+## Asistentes
 
-Ir a [Comandos](comandos.md)
+- Patricio Soriano [@sigdeletras](https://twitter.com/sigdeletras), [Linkedin](https://www.linkedin.com/in/patriciosorianocastro/), [SIGdeletras.com](https://sigdeletras.com/), [GitHub](https://github.com/sigdeletras)
 
