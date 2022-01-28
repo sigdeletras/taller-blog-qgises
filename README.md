@@ -50,4 +50,4 @@ Ir a [Guion de Taller](taller.md)
 ## Asistentes
 
 - Patricio Soriano [@sigdeletras](https://twitter.com/sigdeletras), [Linkedin](https://www.linkedin.com/in/patriciosorianocastro/), [SIGdeletras.com](https://sigdeletras.com/), [GitHub](https://github.com/sigdeletras)
-
+- Carlos López Quintanilla [@carlospsig](https://twitter.com/carlospsig), [Linkedin](https://www.linkedin.com/in/clquintanilla/), [psig.es](https://psig.es/), [GitHub](https://github.com/carlospsig)
