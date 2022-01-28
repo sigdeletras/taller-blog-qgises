@@ -51,3 +51,4 @@ Ir a [Guion de Taller](taller.md)
 
 - Patricio Soriano [@sigdeletras](https://twitter.com/sigdeletras), [Linkedin](https://www.linkedin.com/in/patriciosorianocastro/), [SIGdeletras.com](https://sigdeletras.com/), [GitHub](https://github.com/sigdeletras)
 - Carlos López Quintanilla [@carlospsig](https://twitter.com/carlospsig), [Linkedin](https://www.linkedin.com/in/clquintanilla/), [psig.es](https://psig.es/), [GitHub](https://github.com/carlospsig)
+- Óscar Álvarez Cano [@oscarjea84](https://twitter.com/oscarjea84), [Linkedin](https://www.linkedin.com/in/%C3%B3scar-jes%C3%BAs-%C3%A1lvarez-cano-2a221645/), [GitHub](https://github.com/oscarjea)
