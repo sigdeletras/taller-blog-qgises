@@ -15,7 +15,7 @@ Fomentar las aportaciones al blog de la Asociación y pasar un buen rato de conv
 
 ## Culpable
 
-- Patricio Soriano 🖐. Socio de QGIS.es,  escribo en [SIGdeletras.com](https://sigdeletras.com/), tuitero viejuno en [@sigdeletras](https://github.com/sigdeletras) y profesionalmente en [Linkedin](https://www.linkedin.com/in/patriciosorianocastro/)
+- Patricio Soriano 🖐. Socio de QGIS.es, escribo en [SIGdeletras.com](https://sigdeletras.com/), tuitero viejuno en [@sigdeletras](https://github.com/sigdeletras) y profesionalmente en [Linkedin](https://www.linkedin.com/in/patriciosorianocastro/)
 
 ## Coordenadas
 
@@ -46,9 +46,9 @@ Ir a [Guion de Taller](taller.md)
 6. [Forma 1. Crear un artículo desde GitHub](taller.md#forma1) [(Práctica 1)](taller.md#practica1)
 7. [Forma 2. Trabajando desde repositorio local](taller.md#forma2) [(Práctica 2)](taller.md#practica2)
 
-
 ## Asistentes
 
 - Patricio Soriano [@sigdeletras](https://twitter.com/sigdeletras), [Linkedin](https://www.linkedin.com/in/patriciosorianocastro/), [SIGdeletras.com](https://sigdeletras.com/), [GitHub](https://github.com/sigdeletras)
 - Carlos López Quintanilla [@carlospsig](https://twitter.com/carlospsig), [Linkedin](https://www.linkedin.com/in/clquintanilla/), [psig.es](https://psig.es/), [GitHub](https://github.com/carlospsig)
 - Óscar Álvarez Cano [@oscarjea84](https://twitter.com/oscarjea84), [Linkedin](https://www.linkedin.com/in/%C3%B3scar-jes%C3%BAs-%C3%A1lvarez-cano-2a221645/), [GitHub](https://github.com/oscarjea)
+- Alberto Aparicio Ríos [@albertoapacc] (https://twitter.com/albertoapacc), [Linkedin] (https://www.linkedin.com/in/alberto-aparicio-rios-147780105/), [GitHub] (https://github.com/AlbertuchoCC)
